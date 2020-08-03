@@ -9,4 +9,4 @@ To display the names and roll numbers of students
 4
 
 output obtained
-![output](capture.jpg)
+![output](OUTPUT.jpg)

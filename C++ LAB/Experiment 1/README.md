@@ -10,3 +10,4 @@ To display the names and roll numbers of students
 
 output obtained
 ![output](OUTPUT.jpg)
+
